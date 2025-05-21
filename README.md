@@ -34,6 +34,3 @@ _Ask me about these—I'm always happy to share what I've built or contributed!_
 ## 📫 Let's Connect
 
 I'm always open to collaborating, learning, or geeking out about new ideas! Don't hesitate to reach out via GitHub issues or discussions.
-
-## 👀 Profile Views
-![counter](https://yourendpoint.m.pipedream.net)
