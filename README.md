@@ -16,14 +16,11 @@ I'm a passionate developer, IT specialist, and software/performance engineer wit
 ## 🌟 Favorite Projects
 
 - **ATV Simulator** 
-  ## 📌 Featured Projects
-![Project Pin](https://github-readme-stats.vercel.app/api/pin/?username=bdchilds&repo=SyntaxSigmaSavants)
 
 - **Fridge Item Ai Detection with AWS**
-![Project Pin](https://github-readme-stats.vercel.app/api/pin/?username=georgyzaets&repo=Fridge-Ingredient-Detection-with-AI)
 
 - **Resilient Access Protocol**
-![Project Pin](https://github-readme-stats.vercel.app/api/pin/?username=gzaets&repo=Resilient-Access_Control)
+  
 _Ask me about these—I'm always happy to share what I've built or contributed!_
 
 ## 💡 Fun Facts
