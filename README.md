@@ -5,7 +5,7 @@
 I'm a passionate developer, IT specialist, and software/performance engineer with a love for all things open source and hands-on tech. Whether it's Linux, Windows, or macOS, I enjoy diving deep into systems, debugging, and making hardware and software work together seamlessly. My journey is fueled by curiosity, home labbing, and a drive to keep learning and evolving—on track to become a system engineer!
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=georgyzaets&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gzaets&show_icons=true)
 
 ## 🛠️ Skills & Tech
 
